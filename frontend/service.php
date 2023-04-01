@@ -75,7 +75,7 @@
                         <div class="d-none d-lg-block">
                             <a href="/cpgs/citizen/citizen-registration.php" class="bi-person custom-icon me-3"></a>
                             
-                                <a href="/cpgs/admin/index.php" class="	fas fa-users"></a>
+                                <a href="/cpgs/admin/index.php" >RC</a>
                         </div>
                     </div>
                 </div>
