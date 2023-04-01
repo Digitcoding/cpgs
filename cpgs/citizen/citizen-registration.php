@@ -2,10 +2,7 @@
     session_start();
     error_reporting(0);
     include('../includes/dbconn.php');
-    if(strlen($_SESSION['emplogin'])==0){   
-        header('location:../index.php');
-    } else {
-    $eid=$_SESSION['emplogin'];
+    
     if(isset($_POST['update'])){
 
     $fname=$_POST['firstName'];
@@ -244,4 +241,3 @@
 
 </html>
 
-<?php } ?> 
