@@ -55,28 +55,28 @@
                     <div class="collapse navbar-collapse" id="navbarNav">
                         <ul class="navbar-nav mx-auto">
                             <li class="nav-item">
-                                <a class="nav-link active" href="/frontend/index.php">Home</a>
+                                <a class="nav-link active" href="/cpgs-main/frontend/index.php">Home</a>
                             </li>
 
                             <li class="nav-item">
-                                <a class="nav-link" href="/frontend/service.php">Services</a>
+                                <a class="nav-link" href="/cpgs-main/frontend/service.php">Services</a>
                             </li>
 
                             <li class="nav-item">
-                                <a class="nav-link" href="/frontend/faq.php">FAQs</a>
+                                <a class="nav-link" href="/cpgs-main/frontend/faq.php">FAQs</a>
                             </li>
 
                             <li class="nav-item">
-                                <a class="nav-link" href="/cpgs/index.php">Complaint Register</a>
+                                <a class="nav-link" href="/cpgs-main/cpgs/index.php">Complaint Register</a>
                             </li>
 
                           
                         </ul>
 
                         <div class="d-none d-lg-block">
-                            <a href="/cpgs/citizen/citizen-registration.php" class="bi-person custom-icon me-3"></a>
+                            <a href="/cpgs-main/cpgs/citizen/citizen-registration.php" class="bi-person custom-icon me-3"></a>
 
-                                <a href="/cpgs/admin/index.php" class="fas fa-users"></a>
+                                <a href="/cpgs-main/cpgs/admin/index.php" class="fas fa-users"></a>
                         </div>
                     </div>
                 </div>
